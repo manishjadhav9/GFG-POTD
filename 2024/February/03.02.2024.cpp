@@ -1,5 +1,4 @@
-// Decimal Equivalent of Binary Linked List
-
+//Decimal equivalent of Binary Linked list
 //{ Driver Code Starts
 // Program to check if linked list is empty or not
 #include<iostream>
